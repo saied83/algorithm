@@ -4,7 +4,7 @@
 #r -> right pointer
 #target --> Target
 
-
+# Time Complexity - O(log(N))
 def binarySearch(arr, l , r, target):
 
     #Base Case
