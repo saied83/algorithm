@@ -1,0 +1,7 @@
+Binary Search
+Merge sort
+Fast Fourier Transform (FFT)
+Finding Closest poir of points
+Matrix multiplication (Strassen's Algorithm)
+Matrix inversion
+Quicksort and Kth selection
