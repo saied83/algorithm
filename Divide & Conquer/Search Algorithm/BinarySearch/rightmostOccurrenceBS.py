@@ -5,7 +5,7 @@
 def rightMostOccurrence(arr, target):
     low, high = 0, len(arr)-1
     result = -1
-    while low < high:
+    while low <= high:
         mid = (low+high)//2
         if arr[mid] == target:
             result = mid

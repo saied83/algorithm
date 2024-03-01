@@ -1,4 +1,4 @@
-Binary Search
+Binary Search #Doing
 Merge sort
 Fast Fourier Transform (FFT)
 Finding Closest poir of points
