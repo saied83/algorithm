@@ -5,3 +5,7 @@ Finding Closest poir of points
 Matrix multiplication (Strassen's Algorithm)
 Matrix inversion
 Quicksort and Kth selection
+
+Max Sub array
+Closest pair of points
+Karatsuba
