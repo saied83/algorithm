@@ -1,10 +1,10 @@
-import leftmostOccurrenceBS as lbs
-import rightmostOccurrenceBS as rbs
+import findOccurrenceBS as fbs
 
 def main():
     arr = [1,2, 3, 4, 5, 5, 5, 5, 5, 5, 7, 89, 89, 96, 100]
-    firstOccurrence = lbs.leftMostOccurrence(arr, 5)
-    lastOccurrence = rbs.rightMostOccurrence(arr, 5)
+    target = int(input("Number you want to search: "))
+    firstOccurrence = fbs.findOccurrence(arr, 5, True)
+    lastOccurrence = fbs.findOccurrence(arr, 5, False)
     count = lastOccurrence-firstOccurrence+1
     print(count)
 
